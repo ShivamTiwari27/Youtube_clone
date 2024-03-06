@@ -1,4 +1,6 @@
 ## YouTube Clone
+
+[Here](https://ownyoutubeclone.netlify.app/) is the link to the YouTube clone.
 This is a YouTube clone built using React.js,  which aims to replicate some of the basic functionalities of the original YouTube platform. Users can perform searches, view recommended videos, and play videos.
 
 
